@@ -195,8 +195,7 @@ if ($view === 'reset') {
       <li>Payment &amp; Billing System</li>
       <li>Trainer Scheduling</li>
     </ul>
-    <div style="margin-top:32px;font-size:11px;color:rgba(255,255,255,.4);">© 2025 GymPulse Management System</div>
-  </div>
+<div style="margin-top:32px;font-size:11px;color:rgba(255,255,255,.4);">© 2025 GymPulse Management System | v1.0.1</div>   </div>
 </div>
 
 <div class="login-right">
@@ -339,3 +338,5 @@ function setRole(role, el) {
 </script>
 </body>
 </html>
+
+//Updated by Email2 collaborator.
