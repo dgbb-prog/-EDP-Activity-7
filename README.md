@@ -92,3 +92,4 @@ gympulse/
 - Add CSRF tokens to all forms
 - Use HTTPS
 - Set strong `DB_PASS`
+//Updated by Email2 collaborator.
